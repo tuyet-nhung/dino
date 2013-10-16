@@ -1,4 +1,3 @@
-dino
-====
+# Dinosaurs
 
-a small website about popular dino's 
+A website listing popular dinosaurs.
